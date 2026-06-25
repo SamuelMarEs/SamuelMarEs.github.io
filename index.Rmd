@@ -9,13 +9,16 @@ links:
 output:
   postcards::jolla
 ---
-
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
 
 #### **Bio** 
-
+I am passionate about probability and statistics, and I have a special interest in Data Science and Machine Learning. I have intermediate knowledge of Python and C++. I am currently learning R, SQL, and Python for ML. My dream is to work on creating machine learning models and developing artificial intelligence.
 
 
 #### **Education**
+I am currently a third-semester student in the Bachelor's degree in Mathematics for Development at UNAM, ENES Juriquilla.
 
 
 
