@@ -1,0 +1,22 @@
+---
+title: "Samuel Márquez Estrada"
+image: "Samuel.JPG"
+links:
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/SamuelMarEs/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "samuelmares381@gmail.com"
+output:
+  postcards::jolla
+---
+
+
+#### **Bio** 
+
+
+
+#### **Education**
+
+
+
+
